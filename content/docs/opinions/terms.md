@@ -17,6 +17,9 @@ Starter Liquid or Raw Kombucha
 Biofilm
 : The cellulose layer that forms on top of fermenting Kombucha. This is sometimes referred to as a pellicle or SCOBY. But for clarity, I will use the narrowest term possible (biofilm). You can read more about biofilms on [wikipedia](https://en.wikipedia.org/wiki/Biofilm). This only refers to the **solid** cellulose layer.
 
+Microbes
+: The bacteria and yeast in kombucha that cause fermentation and the creation of its unique flavor. These different microorganisms work together to create kombucha. In general, the yeast eat sugar to create CO2 and alcohol. The bacterial oxidize the alcohol to create different acids, resulting it kombucha's signature tang. This term refers to both types of microorganisms and is similar to SCOBY, but without all the history that term holds in kombucha culture.
+
 ## Terms I will not use
 
 Pellicle
