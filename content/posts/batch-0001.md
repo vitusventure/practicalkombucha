@@ -1,10 +1,11 @@
 ---
-title: Brew 0001 - Year old starter
-date: 2022-10-08
+title: Batch 0001
+date: 2022-10-01
 tags:
     - base kombucha recipe
     - simple syrup (triple berry)
     - dry hopped (cashmere)
+summary: A successful brew from an old starter
 ---
 
 This was the first brew after pausing for about a year. Used 16oz of starter that had been kept in the fridge since my last brew.

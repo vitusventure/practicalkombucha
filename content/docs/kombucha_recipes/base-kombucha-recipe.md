@@ -1,12 +1,12 @@
 # Base Kombucha Recipe
 
-This is a very basic Kombucha recipe using easy to find ingredients. It should yield 1 gallon of finished Kombucha.
+This is a very basic kombucha recipe using easy to find ingredients. It should yield 1 gallon of finished kombucha.
 
-Since you must retain 2 cups to start your next batch you will end with 14 cups finished Kombucha for bottling (or about 7 16oz bottles).
+Since you must retain 2 cups to start your next batch you will end with 14 cups finished kombucha for bottling (or about 7 16oz bottles).
 
 ## Ingredients
 
-* 2 cups Kombucha starter
+* 2 cups kombucha starter
 * 4 cups sweet tea (see below)
 * 10 cups cold water
 
@@ -33,13 +33,13 @@ Wash a 1 gallon fermenter well with soap and hot water. Consider spraying with d
 
 ### 4. Ferment
 
-1. Place tight woven cloth cover over fermentor opening, secure with rubber band.
+1. Place tight woven cloth cover over fermenter opening, secure with rubber band.
     * This will allow air exchange, but will keep flies out
-2. Place in a warm area or supply supplimental heat with a heat pad (generally shoot to ferment around 75-82 degrees F)
+2. Place in a warm area or supply supplemental heat with a heat pad (generally shoot to ferment around 75-82 degrees F)
 3. Allow to ferment until finished (about 7-10 days)
 
 ## Starting your next batch
 
 Once fermentation is complete, reserve 2 cups of fermented kombucha as your starter for your next batch. Bottle the remaining fermented kombucha with flavoring.
 
-You may discard the pellicle (or retain it if you want). See [Retaining the biofilm](/docs/opinions/retaining-the-biofilm) for more thoughts on that matter.
+You may discard the biofilm (or retain it if you want). See [Retaining the biofilm](/docs/opinions/retaining-the-biofilm) for more thoughts on that matter.

@@ -1,11 +1,10 @@
 ---
-title: Kombucha Recipe Variations
-draft: false
+title: Base recipe variations
 ---
 
-# Variations on the base Kombucha recipe
+# Base kombucha recipe variations
 
-These are variations that can be applied to the base recipe for differing results. They can generally be mixed and matched.
+These are variations that can be applied to the base recipe for differing results.
 
 ## 1.125 gallon batch
 

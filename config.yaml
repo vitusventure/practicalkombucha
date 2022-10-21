@@ -5,6 +5,7 @@ theme: hugo-book
 markup:
   tableOfContents:
     startLevel: 1
+    stopLevel: 3
 menu:
   after:
     - name: Brewing Log
